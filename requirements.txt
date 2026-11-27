@@ -1,0 +1,14 @@
+# Dependencies only: actual TIP versions cannot be inferred from another machine.
+# Step 0 writes requirements-tip.txt from the running environment metadata.
+# After running Step 0 ON TIP: cp requirements-tip.txt requirements.txt
+# The EPO PATSTAT client is supplied by TIP.
+pandas
+numpy
+matplotlib
+SQLAlchemy
+PyYAML
+openpyxl
+scipy
+
+# Read the archived global PEST reports locally; no runtime web access.
+pypdf>=5,<7
