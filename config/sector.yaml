@@ -1,9 +1,96 @@
+# Team 09 Â· EV Charging Systems Â· client: Toyota
+# All project settings in one place. These are the values of the configuration
+# cell (section 1) of notebooks/02_step1_general_description.ipynb.
+
+# ---------------------------------------------------------------- environment
+environment: PROD          # develop on TEST, switch to PROD for the final numbers
+output_dir: outputs        # step0/ and step1/ subfolders are created inside
+
+# ---------------------------------------------------------------- sector definition (Step 0)
 sector:
-  name: "EV Charging Systems"
-  
-cpc_codes:
-  - "B60L  53/%"   
-  - "Y02T  90/12%" 
+  name: EV Charging Systems
+  cpc_prefixes:            # B60L53 = charging of EVs; B60L 55/00 = vehicle-to-grid
+    - "B60L53/"
+    - "B60L 55/00"
+  keywords:                # searched in titles and abstracts, case-insensitive
+    - electric vehicle charging
+    - EV charging station
+    - vehicle charging system
+    - electric vehicle charger
+    - wireless vehicle charging
+    - inductive vehicle charging
+    - fast charging electric vehicle
+    - vehicle-to-grid
+    - V2G charging
+    - battery swapping electric vehicle
+  exclude_cpc_prefixes:    # whole families dropped after validation round 1
+    - B63                  # ships
+    - B64                  # aircraft and drones
+    - F03D                 # wind turbines
+
+# ---------------------------------------------------------------- time window
+years:
+  min: 2000
+  max: 2025
+family_time_column: earliest_filing_year   # family level: earliest priority year (PW rule)
+appln_time_column: appln_filing_year       # application level: the application's own filing year
+truncated_years:                           # last years still incomplete in PATSTAT
+  appln_filing_year: 3
+  earliest_filing_year: 3
+  earliest_publn_year: 1
+
+# ---------------------------------------------------------------- counting rules
+ipr_type: PI                               # patents of invention only (no utility models)
+ip5_offices: [EP, US, CN, JP, KR]
+extra_offices_shown: [DE]                  # DE is the 6th largest office in this sector
+top_n: 8                                   # categories shown; the rest is "Other"
+growth_base_years: [2000, 2010]            # 2010 is the headline base (2000 base is too small)
+
+# ---------------------------------------------------------------- applicant names (Step 0 cleaning)
+applicants:
+  use_business_groups: false               # false = majority-ownership rule; true = Hyundai-Kia and Toyota-Denso as one group
+  legal_form_cleaning: true
+  gold_standard_file: config/PATSTAT_500_label_datav4.csv
+  top_n: 30
 
 
-  
+# Existing Step 2 parameters, made explicit for team review.
+# The 2013 period below is a subfield comparison period, not the headline CAGR base.
+step2:
+  split_year: 2015
+  window: 3
+  past_period: [2013, 2017]
+  recent_period: [2018, 2022]
+  min_growth_base: 10
+  min_rta_families: 5
+  min_rta_portfolio: 10
+  subfield_cpc_prefixes: ["B60L53/", "B60L55/00"]
+  run_sdg_analysis: false
+  sdg_batch_size: 500
+  comparison_base_year: 2010
+  # Additional Step 2 comparisons, not part of the original Step 1 scope.
+  comparison_sectors:
+    Photovoltaic energy: ["H02S", "Y02E10/5"]
+    Wind energy: ["F03D", "Y02E10/7"]
+
+  # Step 2 evidence and screening parameters. Step 0/1 settings above are unchanged.
+  iea_workbook: "data/external/EV data by country 2026.xlsx"
+  iea_regions: [World, China, Europe, USA, Japan]
+  run_exploratory_appendix: false
+  run_additional_field_comparison: true
+  min_screen_recent_families: 10
+  min_recent_active_years: 2
+  min_coded_coverage_pct: 50
+  screen_top_n: 15
+
+  spending_json: "data/external/iea_spending/policies.json"
+  spending_categories: "data/external/iea_spending/categories.json"
+  electricity_workbook: "data/external/Eurostat_nrg_pc_205.xlsx"
+  electricity_band: IC
+  electricity_tax: "Excluding VAT and other recoverable taxes and levies"
+  electricity_geographies: [Germany, France, Italy, Spain, Netherlands]
+  social_csv: "data/external/social/social_pest_observations.csv"
+
+  # Integrated tutorial measures supplement the detailed main analysis.
+  run_integrated_context: true
+  history_batch_size: 5000

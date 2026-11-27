@@ -1,0 +1,266 @@
+Source URL: https://openchargealliance.org/protocols/open-charge-point-protocol/
+Retrieved UTC: 2026-11-27T10:36:23.638425+00:00
+This is extracted page text, not the full interactive dataset.
+
+
+
+	Discover our open standards for future-ready EV charging - Open Charge Alliance
+
+            Skip to content
+
+            Skip to footer
+
+                        en
+
+Protocols
+
+Test Tools
+
+Certification
+
+OCPP Certification program
+
+Testing laboratories
+
+Certified Products
+
+Verification of certificates
+
+Community
+
+Membership & benefits
+
+The OCA Working Groups
+
+Meet our members
+
+Golden SUT program
+
+Working group meetings
+
+News
+
+Events
+
+All events
+
+What is an OCPP Plugfest
+
+Webinars
+
+Join us
+
+Whitepapers
+
+Webinars
+
+About us
+
+Contact
+
+FAQ
+
+                    OCPP
+                    :
+
+                        Discover our open standards for future-ready EV charging
+
+                            Protocols / Discover our open standards for future-ready EV charging
+
+OCPP is the global open communication protocol between charging stations and charging management systems. It helps the EV charging ecosystem build infrastructure that is interoperable, scalable, and less dependent on proprietary systems.​
+OCPP 1.6 remains widely used, but the industry is moving towards OCPP 2.x. OCPP 2.0.1 and OCPP 2.1 support more advanced functionality for secure, smart and future-ready charging infrastructure. 
+
+At the moment there are three versions of OCPP available.
+
+OCPP 1.6 was released in 2015.
+
+OCPP 2.0.1 was released in 2020. OCPP 2.0.1 ed3 was approved as an IEC standard (IEC63584) in 2024.
+
+OCPP 2.1 was released in 2025.
+
+                                            Explore OCPP 2.1
+
+                                            Explore OCPP 2.0.1
+
+                                            Explore OCPP 1.6
+
+                                            OCPP 2.1
+
+                                                                        Open charge point protocol 2.1
+
+OCPP 2.1 is designed for smarter, more efficient, and user-friendly EV charging solutions. It is part of our mission to stay ahead and to improve constantly. We reached this milestone thanks to the input and feedback we received from OCA participants and OCPP enthusiasts from all over the world! Together, we define the future of EV charging. 
+
+OCPP 2.1 builds on OCPP 2.0.1 by introducing additional functionality. Care has been taken to ensure that all application logic developed for OCPP 2.0.1 remains compatible with OCPP 2.1.
+
+OCPP 2.1 includes improved and added functionalities compared to OCPP 2.0.1: 
+
+Support for ISO 15118-20: Support for ISO 15118-20 with bidirectional power transfer.  
+
+New Functional Block on Bidirectional Charging: Enablement of bidirectional energy flows (V2X), allowing EVs to act as energy sources.  
+
+New Functional Block on DER Control: Enhanced integration with distributed energy resources (DER). 
+
+Improved Smart Charging: Advanced tools for optimized energy distribution across charging stations. 
+
+Extended Transaction Options: Possibility to perform transactions with fixed costs, energy or time. Possibility to resume transactions after a forced reboot. 
+
+Battery Swapping: Support for battery swap stations for two- and three-wheelers and electric vehicles. 
+
+Local Cost Calculation: Support for local cost calculation on the charging station.  
+
+New Authorization Options:  
+
+Support for Prepaid Charge Cards: Transaction cost cannot exceed prepaid card balance.  
+
+Support for Ad Hoc Payment: Pay with credit or debit card via a built-in or a stand-alone credit card terminal. 
+
+Secure Dynamic QR Codes: Introduction of secure dynamic QR-codes for ad hoc payment. 
+
+Many Additional Improvements: A variety of updates driven by feedback from the EV charging community. 
+
+                                            Download
+
+                                            OCPP 2.0.1
+
+                                                                        Open charge point protocol 2.0.1
+
+OCPP 2.0 made its first appearance in 2018 as the successor to OCPP 1.6. However, OCA, in collaboration with the community, decided that version 2.0 would benefit from additional features. Thanks to the hard work of both the OCA team and the community, OCPP 2.0.1 was introduced in 2020 and is on its way to replacing OCPP 1.6 as the new industry standard for communication between the CS and CSMS. 
+
+OCPP 2.0.1 has the following improved/added functionalities in comparison to OCPP 1.6:  
+
+Device Management Features to get and set configurations and also to monitor a Charging Station. 
+
+Improved transaction handling 
+
+Added security 
+
+Added smart charging functionalities 
+
+Support for ISO 15118 
+
+Display and messaging support 
+
+Many additional improvements requested by the EV charging community  
+
+Note that OCPP 1.6 and OCPP 2.0.1 are not compatible. OCPP 2.0.1 ed3 was approved as an IEC standard (IEC63584) in 2024.
+
+                                            Download
+
+                                            Test Tool
+
+                                            Certification
+
+                                            Whitepapers
+
+                                            OCPP 1.6
+
+                                                                        Open Charge Point Protocol 1.6
+
+OCPP 1.6 was released in 2015 and brought the protocol to a new level. Since then, downloads have steadily increased, and OCPP 1.6 is now widely implemented by CS and CSMS manufacturers around the world.
+
+OCPP 1.6 functions are:  
+
+OCPP 1.5 
+
+Both SOAP and JSON versions 
+
+Smart Charging support for load balancing and use of charge profiles 
+
+(Local) list management support 
+
+Additional status 
+
+Message sending requests such as CP time or status at the CP 
+
+Minor improvements in specifications (In comparison to OCPP 1.5) 
+
+                                            Download
+
+                                            Test Tool 
+
+                                            Certification
+
+                                            Whitepapers
+
+Older OCPP versions
+
+Click here to find the older versions of the OCPP protocols.
+
+                                        Archive
+
+Join our community
+
+Do you want to contribute to the OCPP protocol in a community with hundreds of EV experts?
+
+Become an OCA member! You will have acces to the latest information on OCPP, you can join one of the working groups, ask question to the community and network with like-minded professionals. Join us today to unlock the benefits of being part of the OCA community.
+
+                                        Join us now
+
+                    OCA newsletter
+
+                            Subscribe to the OCA Newsletter
+
+Careers
+
+Terms of Service
+
+Privacy policy
+
+                    © 2026 - All rights reserved
+
+                Website by
+                Smeders
+
+Manage consent
+
+To provide the best experiences, we use technologies such as cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent may adversely affect certain features and functions.
+
+					Functional
+
+							Functional
+
+						Always active					
+
+					Technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+					Voorkeuren
+
+						Voorkeuren
+
+					De technische opslag of toegang is noodzakelijk voor het legitieme doel voorkeuren op te slaan die niet door de abonnee of gebruiker zijn aangevraagd.
+
+					Statistics
+
+						Statistics
+
+					Technical storage or access used exclusively for statistical purposes.
+					De technische opslag of toegang die uitsluitend wordt gebruikt voor anonieme statistische doeleinden. Zonder dagvaarding, vrijwillige naleving door je Internet Service Provider, of aanvullende gegevens van een derde partij, kan informatie die alleen voor dit doel wordt opgeslagen of opgehaald gewoonlijk niet worden gebruikt om je te identificeren.
+
+					Marketing
+
+						Marketing
+
+					Technical storage or access is required to create user profiles for sending advertisements, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage options
+
+Manage services
+
+Manage {vendor_count} vendors
+
+Read more about these purposes
+
+		Accept
+		Decline
+		Bekijk voorkeuren
+		Save preferences
+		Bekijk voorkeuren
+
+{title}
+
+{title}
+
+{title}
+
+Manage consent
+

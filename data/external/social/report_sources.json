@@ -1,0 +1,32 @@
+[
+  {
+    "file": "dft_wave11.pdf",
+    "url": "https://assets.publishing.service.gov.uk/media/66f3dc255316e21be6c4bc37/dft-tchnology-tracker-wave-11.pdf",
+    "bytes": 2683129,
+    "sha256": "7716790a9d3e6db9c3a09fc4f96d2ae6d59f7b23fdea693c8c3c050b69053e85"
+  },
+  {
+    "file": "pew_2024.pdf",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/PS_2024.6.27_energy_REPORT.pdf",
+    "bytes": 1040526,
+    "sha256": "062982216e3cb82a1ff743f96b250669b0d23e0bfc3204f15bb4c0b90b865723"
+  },
+  {
+    "file": "pew_2025.pdf",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/PS_2025.6.5_energy_report.pdf",
+    "bytes": 581248,
+    "sha256": "ebc271fb6a954e4d3bbcd6d7641308d2f3112ad4305995a05628a1263cd20438"
+  },
+  {
+    "file": "pew_2026.pdf",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/04/PS_26.04.07_energy_report.pdf",
+    "bytes": 658018,
+    "sha256": "bd72cb610bc98b994dcf6e862855e626bf71b5e0c08bb6cf9d6424138714de50"
+  },
+  {
+    "file": "pew_2026.html",
+    "url": "https://www.pewresearch.org/science/2026/04/03/how-appealing-are-electric-vehicles-and-hybrids-to-americans/",
+    "bytes": 425433,
+    "sha256": "08a5fe6354846db3eed629fab95738291edd2e7c5bf4563b87207ae631e9e681"
+  }
+]

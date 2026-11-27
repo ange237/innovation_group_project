@@ -1,0 +1,522 @@
+Source URL: https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary
+Retrieved UTC: 2026-11-27T10:36:21.282946+00:00
+This is extracted page text, not the full interactive dataset.
+
+
+
+    Executive summary - Electric Car Markets in a Time of Uncertainty - IEA
+
+        IEA
+
+                Close Search
+
+        Search
+
+                About
+
+                News
+
+                Events
+
+                Programmes
+
+                Help centre
+
+                                    IEASkip navigation
+
+        Search
+
+                Energy system Chevron down
+
+                            Explore the energy system by fuel, technology or sector
+
+Fossil Fuels
+
+Renewables and Low-Emissions Fuels
+
+Transport
+
+Industry
+
+Buildings
+
+                Explore all
+
+            Topics  Chevron down
+
+                        Understand the biggest energy challenges
+
+The Middle East and Global Energy Markets
+
+Energy Security
+
+Tracking COP Energy Goals
+
+Artificial Intelligence
+
+Investment
+
+Critical Minerals
+
+Access and Affordability
+
+Energy Innovation
+
+Climate Change
+
+Energy and Gender
+
+                                                Access and Affordability
+
+                                                Energy Innovation
+
+                                                Climate Change
+
+                                                Energy and Gender
+
+                                                Russia's War on Ukraine
+
+                                                Energy and Water
+
+                                                Fossil Fuel Subsidies
+
+                                                Net Zero Emissions
+
+                                                Saving Energy
+
+                All topics
+
+            Countries Chevron down
+
+                            Explore the energy system by country or region
+
+Member countries
+
+                                            Australia
+
+                                            Austria
+
+                                            Belgium
+
+                                            Canada
+
+                                            Czechia
+
+                                            Denmark
+
+                                            Estonia
+
+                                            Finland
+
+                                            France
+
+                                            Germany
+
+                                            Greece
+
+                                            Hungary
+
+                                            Ireland
+
+                                            Italy
+
+                                            Japan
+
+                                            Korea
+
+                                            Latvia
+
+                                            Lithuania
+
+                                            Luxembourg
+
+                                            Mexico
+
+                                            New Zealand
+
+                                            Norway
+
+                                            Poland
+
+                                            Portugal
+
+                                            Slovak Republic
+
+                                            Spain
+
+                                            Sweden
+
+                                            Switzerland
+
+                                            The Netherlands
+
+                                            Türkiye
+
+                                            United Kingdom
+
+                                            United States
+
+Accession countries
+
+                                            Brazil
+
+                                            Chile
+
+                                            Colombia
+
+                                            Costa Rica
+
+                                            Israel
+
+                                            Romania
+
+Association countries
+
+                                            Argentina
+
+                                            China
+
+                                            Egypt
+
+                                            India
+
+                                            Indonesia
+
+                                            Kenya
+
+                                            Morocco
+
+                                            Nigeria
+
+                                            Senegal
+
+                                            Singapore
+
+                                            South Africa
+
+                                            Thailand
+
+                                            Ukraine
+
+                                            Viet Nam
+
+                All Countries and Regions
+
+            DataChevron down
+
+                        Use, download and buy global energy data
+
+Data explorers
+
+Understand and manipulate data with easy to use explorers and trackers
+
+                                        Data explorers
+
+Data sets
+
+Free and paid data sets from across the energy system available for download
+
+                                        Data sets
+
+Policies database
+
+Past, existing or planned government policies and measures
+
+                                        Policies database
+
+Chart Library
+
+Access every chart published across all IEA reports and analysis
+
+                                        Chart
+
+                Explore data
+
+            Reports Chevron down
+
+                            Read the latest analysis from the IEA
+
+Oil Market Report - November 2026
+
+                        Fuel report   — 13 November 2026                     
+
+Sheltering From Oil Shocks
+
+Measures to reduce impacts on households and businesses
+
+                        Fuel report   — 20 March 2026                     
+
+World Energy Outlook 2026
+
+                Read more
+
+                        Flagship report   — 19 November 2026                     
+
+Energy Technology Perspectives 2026
+
+                Read more
+
+                        Flagship report   — 26 March 2026                     
+
+                All reports
+
+                Search
+
+            Bag
+
+1
+
+                    User Profile
+
+            Search
+
+Sign In
+            Flyout close
+
+You are connecting via IP recognition from 
+ .
+
+If you wish to proceed, click on Connect.
+
+      If you prefer to log into your personal account, please sign in below.
+
+    ConnectConnect
+
+      OR
+
+            Email                    *
+
+Error
+
+            Password                    *
+
+    Forgot password?
+
+                    Eye
+
+Error
+
+    Sign inSign in
+
+Create an account
+
+Create a free IEA account to download our reports or subcribe to a paid service.
+
+    Join for freeJoin for free
+
+            logo
+
+                    Open Navigation
+            Contents
+
+                Cite
+
+                Share
+
+                       Download full report
+                       arrow-down
+
+                       arrow-down-24
+
+        Executive summary
+
+            Close Side navigation
+
+                                                        Executive summary
+
+                Cite report
+
+                    Close dialog
+
+IEA (2026), Electric Car Markets in a Time of Uncertainty, IEA, Paris https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty, Licence: CC BY 4.0
+
+    Copy to clipboard
+
+                Share this report
+
+                    Close dialog
+
+Share on Twitter Twitter
+
+Share on Facebook Facebook
+
+Share on LinkedIn LinkedIn
+
+Share on Bluesky Bluesky
+
+Share on Email Email
+
+Share on Print Print
+
+                Report options
+
+                    Close dialog
+
+    Download
+
+    Electric Car Markets in a Time of UncertaintyElectric Car Markets in a Time of Uncertainty
+
+            Executive summary
+
+Electric car sales prove resilient despite a weakening global car market
+
+Road transport and electric vehicles (EVs) have been in the spotlight amid the current energy crisis. Road vehicles account for nearly half of global oil use, making the sector particularly exposed to fuel price spikes and supply disruptions. The sector is also a key driver of oil imports in import-dependent regions. Policy and industry responses to the energy crisis – especially those related to EVs – have the potential to further accelerate changes in a global car industry that is already in flux.
+Electric car sales rebounded in the second quarter of 2026, even as global car sales declined. Sales of electric cars were 4% higher year-on-year (y-o-y) and 35% above the first quarter of 2026. As a result, electric car sales in the first half of 2026 were only slightly lower than in the first half of last year, as the increase in second quarter sales almost entirely offset the first-quarter decline. Meanwhile, global car sales were down by around 5% y-o-y in the first half of the year, primarily due to a drop in sales in the world’s two largest car markets – China and the United States. Overall, EVs accounted for 24% of global car sales, slightly higher than in the first half of 2025.
+
+Electric car sales by region during the first half of the year, 2025-2026
+
+    Openexpand
+
+                Notes and sources
+
+                    Chevron down 16
+
+H= half.
+IEA analysis based on data from EV Volumes.
+
+Electric car sales are now expected to reach 29% of total car sales worldwide in 2026. In Australia, Brazil, India, Korea and Viet Nam – all sizeable electric car markets – sales have roughly doubled since the beginning of the energy crisis, compared with the same period (March-June) in 2025. Together with strong second-quarter market momentum and policy support for EVs in Latin America, Southeast Asia and Europe, these trends support the expectation that electric car sales will grow around 10% this year, compared to 2025. The pace of recovery of the Chinese car market remains the main constraint on global sales growth. Electric car sales in the country are expected to reach similar levels as in 2025, though the EV sales share is expected to grow to more than 60% in 2026.
+
+Global new car sales by powertrain, 2000-2026
+
+    Openexpand
+
+                Notes and sources
+
+                    Chevron down 16
+
+ICEV = internal combustion engine vehicle; HEV = hybrid electric vehicle; EV = electric vehicle; FCEV = fuel cell electric vehicle; AEs = advanced economies; EMDEs = emerging markets and developing economies. “HEV” includes only full hybrid electric cars (FHEV). “ICEV” includes both conventional ICE cars and mild-hybrid electric cars (MHEV), typically featuring 48V hybrid powertrain architectures. 2026 sales (“2026e”) are estimated based on market trends through the first half of 2026.
+IEA analysis based on data from Marklines and EV Volumes.
+
+Shifting trade flows and intensifying competition are reshaping the global car industry
+
+Surging car exports are partially shielding Chinese manufacturers from declining domestic sales. Total car sales in China declined over 20% y-o-y in the first half of 2026 with around 2.5 million fewer cars sold – equivalent to all cars sold in the United Kingdom and the Netherlands in 2025. In response, Chinese car exports grew by 65% y-o-y in the first half of the year, helping limit the decline in Chinese car production to around 6% y-o-y. Electric car exports grew even faster, increasing by over 120% and fully compensating for the decrease in domestic electric car sales. As a result, the share of electric cars in China’s car exports rose from around 35% in 2025 to more than 45% in the first half of 2026.
+
+Domestic car sales and exports from China, 2025-Q2 2026
+
+    Openexpand
+
+                Notes and sources
+
+                    Chevron down 16
+
+Q = quarter; NEV = new energy vehicles (includes battery, plug-in hybrid and fuel cell electric vehicles); ICEV = internal combustion engine vehicle (includes non-plug-in hybrid electric vehicles). Wholesale sales refer to factory-level shipments by automakers to dealers and other distribution channels, including vehicles for export.
+IEA analysis based on data from China Association of Automobile Manufacturers (CAAM).
+
+The rapid rise in Chinese EV exports is creating new market opportunities and uncertainties. Electric car exports from China have grown faster than overseas sales of those vehicles, with the gap widening more recently; over 1 million electric car exports from China over the last 18 months have not yet been registered as sales in other countries. While shipping times may explain some of this gap, the scale of the difference points to above-norm inventory build-ups in some destination markets. When these cars will be sold, and at what price, remains an important market uncertainty.
+
+Electric car exports from China and overseas sales by region, 2025-H1 2026
+
+    Openexpand
+
+                Notes and sources
+
+                    Chevron down 16
+
+H=half.
+IEA analysis based on data from CAAM and EV Volumes.
+
+Competition is intensifying in the electric car market, where incumbent car manufacturers are less present. Carmakers operating primarily in the internal combustion engine (ICE) vehicle segment still account for around 98% of ICE car sales, but only around 55% of global electric car sales. Chinese carmakers have expanded rapidly both at home and abroad, including in emerging markets, where they hold a particularly high share of EV sales. With China and other emerging economies set to represent 60% of global car demand over the next decade, success in these markets will increasingly determine future market leadership.
+
+Policy, innovation and partnerships will determine future competitiveness
+
+The market success of electric cars is transforming global automotive supply chains and industrial structures. Value is shifting from traditional mechanical components towards batteries, electronics and software, with China occupying a leading position across much of the battery value chain. The rise of software-defined vehicles, pioneered by the EV industry, is also creating new sources of competitive advantage, while increasing pressure on incumbent manufacturers and suppliers to adapt. These shifts have significant implications for employment, supply chain resilience and industrial competitiveness.
+China’s EV leadership reflects decades of industrial policy, innovation and scale. Chinese manufacturers benefit from integrated supply chains, strong battery capabilities and production costs that are around 35% lower than in advanced economies. Closing the competitiveness gap will require co-ordinated action by governments and industry, including stable demand signals, support for innovation, stronger battery ecosystems and improvements in manufacturing efficiency. Automakers are increasingly using joint ventures and strategic alliances to access technology, battery expertise, manufacturing capacity and new markets.
+
+Newsletters
+
+The best of the IEA sent straight to your inbox
+
+                Subscribe to newsletters
+
+Podcasts
+
+Top energy experts put IEA analysis in context
+
+                Listen to our podcast
+
+Understand energy
+
+Reports
+
+News and commentaries
+
+Events
+
+Energy system
+
+Topics
+
+Countries and regions
+
+Glossary
+
+Explore data
+
+Data explorers
+
+Data sets
+
+Policies database
+
+Chart library
+
+Energy Statistics Browser
+
+IEA essentials
+
+About
+
+Mission
+
+Membership
+
+Structure
+
+Programmes
+
+International collaborations
+
+Training
+
+Connect
+
+Contact
+
+Press
+
+Careers
+
+Internships
+
+Delegates
+
+Help centre
+
+                IEA
+
+    © 2026 IEA
+
+Terms
+
+Privacy
+
+youtube
+
+linkedin
+
+bluesky
+
+facebook
+
+instagram
+
+x (formally twitter)
+
+    Back to top
+
+                Subscription successful
+
+                    Close dialog
+
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.
+

@@ -1,0 +1,14 @@
+{
+  "created_utc": "2026-11-27T13:52:23.735358+00:00",
+  "source_hashes": {
+    "outputs/step0/applicant_info.csv": "d6fedc107b429c08a588370622e711e11800529ce2f199c22b280af5187aab75",
+    "outputs/step0/applicant_psn_ids.csv": "598cf544c58d1547aa458b73b7261365979f99bd8a6564ef8aa887032e595d6e"
+  },
+  "patent_history_definition": "First observed PI family origin since 1800, all fields, mapped PSN IDs only; not founding",
+  "country_definition": "Modal known family-country record in complete years; not verified legal domicile",
+  "context_file_counts": {
+    "psn_ids": 35231,
+    "applicants_with_mapped_history": 30954
+  },
+  "classification_source": "https://www.uspto.gov/web/patents/classification/cpc/html/cpc-B60L.html"
+}

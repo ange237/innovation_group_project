@@ -1,0 +1,24 @@
+year,active_applicants,new_to_sector_observed,active_applicants_with_complete_history,patent_history_coverage_pct,new_to_patenting_observed,last_observed_in_scope_pct,left_censored_sector_entry,definition
+2000,96,,96,100.0,37,68.75,True,First observed PI patent-family origin for mapped PSN names; not firm founding
+2001,103,97.0,103,100.0,31,58.25242718446602,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2002,148,130.0,148,100.0,52,76.35135135135135,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2003,115,98.0,115,100.0,45,73.04347826086956,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2004,140,112.0,140,100.0,50,65.71428571428571,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2005,177,151.0,177,100.0,62,63.27683615819209,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2006,269,202.0,269,100.0,66,56.87732342007435,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2007,507,429.0,507,100.0,184,66.66666666666667,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2008,815,708.0,815,100.0,294,66.74846625766871,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2009,1503,1266.0,1503,100.0,438,65.93479707252162,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2010,2213,1776.0,2213,100.0,606,70.53773158608224,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2011,2407,1735.0,2407,100.0,590,78.72870793518904,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2012,1223,765.0,1223,100.0,288,69.99182338511856,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2013,792,476.0,792,100.0,171,55.303030303030305,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2014,786,485.0,786,100.0,187,52.54452926208651,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2015,873,586.0,873,100.0,274,52.92096219931271,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2016,1800,1366.0,1800,100.0,571,61.5,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2017,2588,1993.0,2588,100.0,941,68.39258114374034,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2018,2318,1599.0,2318,100.0,647,64.84037963761864,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2019,2897,2049.0,2897,100.0,964,64.30790472903003,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2020,3613,2596.0,3613,100.0,1204,,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2021,4207,2968.0,4207,100.0,1608,,False,First observed PI patent-family origin for mapped PSN names; not firm founding
+2022,4085,2712.0,4085,100.0,1375,,False,First observed PI patent-family origin for mapped PSN names; not firm founding

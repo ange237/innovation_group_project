@@ -1,0 +1,21 @@
+{
+  "page": "https://www.iea.org/data-and-statistics/data-tools/government-energy-spending-tracker-policy-database",
+  "data_url": "https://iea.blob.core.windows.net/scripts/tsr-tracker/data/policies.json",
+  "script_url": "https://iea.blob.core.windows.net/scripts/tsr-tracker/gest.js",
+  "retrieved_utc": "2026-11-25T02:27:10.938917+00:00",
+  "site_update": "2024-09-26",
+  "source_sha256": "2be67e9a5f6e71dc8d000d043e579014757775db3c39e989a85a2d44df786136",
+  "source_records": 2561,
+  "included_chart_records": 2557,
+  "unique_policy_ids": 1222,
+  "countries": 75,
+  "total_govt_bn": 2957.263533898863,
+  "focus_records": 251,
+  "screenshot_reconciliation": {
+    "United States": 593.7,
+    "Germany": 466.4,
+    "People's Republic of China": 289.4,
+    "Italy": 180.3,
+    "France": 169.4
+  }
+}
