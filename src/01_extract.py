@@ -1,0 +1,1 @@
+print("questo è l'estrazione dei dati ")
