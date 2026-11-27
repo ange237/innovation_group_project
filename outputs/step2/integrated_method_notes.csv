@@ -1,0 +1,8 @@
+key,description
+primary_counting,Fractional annual concentration remains the primary view.
+windows,Complete non-overlapping windows; early residual years omitted only here.
+lotka,"Descriptive log-frequency OLS for whole counts, not a validated power-law model."
+top_table,"Descriptive full-family totals, complete years only; not the screening shortlist."
+history,Partial/unknown history is not classified as never previously patenting.
+last_observation,Last observed year is distinct from three-year inactivity and not firm exit.
+coarse_groups,Optional coarse groups collapse detailed codes; exact-symbol RTA remains unchanged.

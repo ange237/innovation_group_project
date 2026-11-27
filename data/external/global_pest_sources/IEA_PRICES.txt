@@ -1,0 +1,481 @@
+Source URL: https://www.iea.org/data-and-statistics/data-tools/end-use-prices-data-explorer/
+Retrieved UTC: 2026-11-27T10:36:21.467594+00:00
+This is extracted page text, not the full interactive dataset.
+
+
+
+    End-Use Prices Data Explorer - IEA
+
+        IEA
+
+                Close Search
+
+        Search
+
+                About
+
+                News
+
+                Events
+
+                Programmes
+
+                Help centre
+
+                                    IEASkip navigation
+
+        Search
+
+                Energy system Chevron down
+
+                            Explore the energy system by fuel, technology or sector
+
+Fossil Fuels
+
+Renewables and Low-Emissions Fuels
+
+Transport
+
+Industry
+
+Buildings
+
+                Explore all
+
+            Topics  Chevron down
+
+                        Understand the biggest energy challenges
+
+The Middle East and Global Energy Markets
+
+Energy Security
+
+Tracking COP Energy Goals
+
+Artificial Intelligence
+
+Investment
+
+Critical Minerals
+
+Access and Affordability
+
+Energy Innovation
+
+Climate Change
+
+Energy and Gender
+
+                                                Access and Affordability
+
+                                                Energy Innovation
+
+                                                Climate Change
+
+                                                Energy and Gender
+
+                                                Russia's War on Ukraine
+
+                                                Energy and Water
+
+                                                Fossil Fuel Subsidies
+
+                                                Net Zero Emissions
+
+                                                Saving Energy
+
+                All topics
+
+            Countries Chevron down
+
+                            Explore the energy system by country or region
+
+Member countries
+
+                                            Australia
+
+                                            Austria
+
+                                            Belgium
+
+                                            Canada
+
+                                            Czechia
+
+                                            Denmark
+
+                                            Estonia
+
+                                            Finland
+
+                                            France
+
+                                            Germany
+
+                                            Greece
+
+                                            Hungary
+
+                                            Ireland
+
+                                            Italy
+
+                                            Japan
+
+                                            Korea
+
+                                            Latvia
+
+                                            Lithuania
+
+                                            Luxembourg
+
+                                            Mexico
+
+                                            New Zealand
+
+                                            Norway
+
+                                            Poland
+
+                                            Portugal
+
+                                            Slovak Republic
+
+                                            Spain
+
+                                            Sweden
+
+                                            Switzerland
+
+                                            The Netherlands
+
+                                            Türkiye
+
+                                            United Kingdom
+
+                                            United States
+
+Accession countries
+
+                                            Brazil
+
+                                            Chile
+
+                                            Colombia
+
+                                            Costa Rica
+
+                                            Israel
+
+                                            Romania
+
+Association countries
+
+                                            Argentina
+
+                                            China
+
+                                            Egypt
+
+                                            India
+
+                                            Indonesia
+
+                                            Kenya
+
+                                            Morocco
+
+                                            Nigeria
+
+                                            Senegal
+
+                                            Singapore
+
+                                            South Africa
+
+                                            Thailand
+
+                                            Ukraine
+
+                                            Viet Nam
+
+                All Countries and Regions
+
+            DataChevron down
+
+                        Use, download and buy global energy data
+
+Data explorers
+
+Understand and manipulate data with easy to use explorers and trackers
+
+                                        Data explorers
+
+Data sets
+
+Free and paid data sets from across the energy system available for download
+
+                                        Data sets
+
+Policies database
+
+Past, existing or planned government policies and measures
+
+                                        Policies database
+
+Chart Library
+
+Access every chart published across all IEA reports and analysis
+
+                                        Chart
+
+                Explore data
+
+            Reports Chevron down
+
+                            Read the latest analysis from the IEA
+
+Oil Market Report - November 2026
+
+                        Fuel report   — 13 November 2026                     
+
+Sheltering From Oil Shocks
+
+Measures to reduce impacts on households and businesses
+
+                        Fuel report   — 20 March 2026                     
+
+World Energy Outlook 2026
+
+                Read more
+
+                        Flagship report   — 19 November 2026                     
+
+Energy Technology Perspectives 2026
+
+                Read more
+
+                        Flagship report   — 26 March 2026                     
+
+                All reports
+
+                Search
+
+            Bag
+
+1
+
+                    User Profile
+
+            Search
+
+Sign In
+            Flyout close
+
+You are connecting via IP recognition from 
+ .
+
+If you wish to proceed, click on Connect.
+
+      If you prefer to log into your personal account, please sign in below.
+
+    ConnectConnect
+
+      OR
+
+            Email                    *
+
+Error
+
+            Password                    *
+
+    Forgot password?
+
+                    Eye
+
+Error
+
+    Sign inSign in
+
+Create an account
+
+Create a free IEA account to download our reports or subcribe to a paid service.
+
+    Join for freeJoin for free
+
+End-Use Prices Data Explorer
+
+Explore high-quality data on end-use energy prices and taxes
+
+                    Last updated
+
+                12 Nov 2026
+
+                    Licence
+
+    CC BY 4.0
+
+                                Overview
+
+This data explorer presents a selection of data from the End-Use Energy Prices data set, which provides end-use energy price data across sectors for 150 countries going back to 1970. It covers prices for gasoline, automotive diesel, natural gas, electricity, kerosene, LPG, fuel oil, coal and other products, updated annually, with more detailed data on end-use prices and taxes, updated quarterly, for OECD countries. 
+
+        Related content
+
+    All resultscircle-arrow
+
+End-use Energy Prices
+
+Combination of regularly-updated world energy prices covering 150 countries, and energy prices and taxes for OECD countries
+
+Data set
+
+    Access via my account
+
+    Access via IP
+
+                            card data set
+
+OECD Energy Prices and Taxes quarterly
+
+A major international compilation of energy prices at all market levels for OECD countries, updated quarterly.
+
+Data set
+
+                            card data set
+
+Energy End-uses and Efficiency Indicators
+
+Annual data from 2000 covering end-use energy consumption, now featuring end-use carbon emissions for the IEA member countries and beyond.
+The data is updated twice a year, at the end of each semesters.
+
+Data set
+
+    Access via my account
+
+    Access via IP
+
+                            card data set
+
+    Previous slideNext slide
+
+        Related tags
+
+    Oil
+
+    Natural Gas
+
+    Coal
+
+    Fossil Fuels
+
+    Transport
+
+    Industry
+
+    Buildings
+
+    Access and Affordability
+
+    Fossil Fuel Subsidies
+
+    Saving Energy
+
+Newsletters
+
+The best of the IEA sent straight to your inbox
+
+                Subscribe to newsletters
+
+Podcasts
+
+Top energy experts put IEA analysis in context
+
+                Listen to our podcast
+
+Understand energy
+
+Reports
+
+News and commentaries
+
+Events
+
+Energy system
+
+Topics
+
+Countries and regions
+
+Glossary
+
+Explore data
+
+Data explorers
+
+Data sets
+
+Policies database
+
+Chart library
+
+Energy Statistics Browser
+
+IEA essentials
+
+About
+
+Mission
+
+Membership
+
+Structure
+
+Programmes
+
+International collaborations
+
+Training
+
+Connect
+
+Contact
+
+Press
+
+Careers
+
+Internships
+
+Delegates
+
+Help centre
+
+                IEA
+
+    © 2026 IEA
+
+Terms
+
+Privacy
+
+youtube
+
+linkedin
+
+bluesky
+
+facebook
+
+instagram
+
+x (formally twitter)
+
+    Back to top
+
+                Subscription successful
+
+                    Close dialog
+
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.
+

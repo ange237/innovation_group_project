@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "file": "data/external/Eurostat_nrg_pc_205.xlsx",
+      "sha256": "e9bac63df2db38c657da735661ea20b7ff7091fb8818808834dac0323c514cc0"
+    },
+    {
+      "file": "data/external/Eurostat_nrg_pc_205_structure.xml.gz",
+      "sha256": "a6d5b030cf799e0c38e66f7dba920aeb957dd4b657fa492d81fe049b67eb0c38"
+    },
+    {
+      "file": "data/external/EV data by country 2026.xlsx",
+      "sha256": "cb6c056fd2c495ee0d52369e547119b5519f3a8df98cab6579a1d4c88bd3561a"
+    },
+    {
+      "file": "data/external/IEA_Government_Energy_Spending.xlsx",
+      "sha256": "ffded637b8d2dea1115d0403a711b2a36fe54737631e144b66c99c2da5516c68"
+    },
+    {
+      "file": "data/external/iea_spending/categories.json",
+      "sha256": "e66b6177b7e5bb68452315e750364d516667a193422de172be7b51e4074874f8"
+    },
+    {
+      "file": "data/external/iea_spending/policies.json",
+      "sha256": "2be67e9a5f6e71dc8d000d043e579014757775db3c39e989a85a2d44df786136"
+    },
+    {
+      "file": "data/external/iea_spending/provenance.json",
+      "sha256": "8bfccd4e5c56d0e3442db9397706b4ab5e91cf825ce78fb15f268f7eea845b45"
+    },
+    {
+      "file": "data/external/iea_spending/source_page.html",
+      "sha256": "0b2257cf79fdf99b200991f839dcde05249b9ec69188ee63dad3d93d19ffa691"
+    },
+    {
+      "file": "data/external/online_sources/EC_AFIR/metadata.json",
+      "sha256": "7610f077204b830451cad83275dfacf9bbe8f5930c014985f655e56cda56de7f"
+    },
+    {
+      "file": "data/external/online_sources/EC_AFIR/source.html",
+      "sha256": "287695fcbe91d3269162532a52275054caaf53f0e0feccb650dae386befcb3b3"
+    },
+    {
+      "file": "data/external/online_sources/EC_AFIR/source.txt",
+      "sha256": "517e7c96627d0d855adb5e7d0d4a1c5cb3ec6f56b32f1d5d209273642cb34e98"
+    },
+    {
+      "file": "data/external/social/report_sources.json",
+      "sha256": "bae833a32b00352e58b011cd0fcd098968f5d5b3741c27904af1740f273bb915"
+    },
+    {
+      "file": "data/external/social/social_pest_observations.csv",
+      "sha256": "2c42b634fedb95b5faa08478cdc71ae36f8cec20b42c448af25cdf8c15188169"
+    },
+    {
+      "file": "data/external/Social_PEST_Time_Series.xlsx",
+      "sha256": "d46586a34f87d284bec5cbccff7812961c7222e80ced9ed906e52bbc3334e8dc"
+    }
+  ],
+  "note": "Source report URLs and hashes accompany the extracted social facts; the reports are not required at runtime."
+}

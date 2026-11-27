@@ -1,0 +1,19 @@
+region_country,geography_type,macroarea,year,metrics_available,missing_metrics,deloitte_q48_available,policy_case_available
+Africa,aggregate,IEA aggregate,2025,6,,False,False
+Australia,country,Oceania,2025,6,,False,True
+Brazil,country,Latin America,2025,4,public_charging_points; fast_ultrafast_share_pct,False,True
+China,country,East Asia,2025,6,,True,True
+Europe,aggregate,IEA aggregate,2025,6,,False,False
+Germany,country,Europe,2025,6,,True,False
+India,country,South Asia,2025,6,,True,True
+Indonesia,country,Southeast Asia,2025,6,,False,False
+Japan,country,East Asia,2025,4,public_charging_points; fast_ultrafast_share_pct,True,False
+Latin America,aggregate,IEA aggregate,2025,6,,False,False
+Mexico,country,Latin America,2025,6,,False,False
+Middle East and Caspian,aggregate,IEA aggregate,2025,6,,False,False
+South Africa,country,Africa,2025,6,,False,False
+Southeast Asia,aggregate,IEA aggregate,2025,6,,True,False
+Thailand,country,Southeast Asia,2025,4,public_charging_points; fast_ultrafast_share_pct,False,False
+USA,country,North America,2025,6,,True,True
+United Arab Emirates,country,Middle East,2025,4,public_charging_points; fast_ultrafast_share_pct,False,True
+World,aggregate,IEA aggregate,2025,6,,False,False

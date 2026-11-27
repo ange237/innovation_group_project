@@ -1,0 +1,65 @@
+{
+  "method": "integrated-competition-and-screening-v3",
+  "core_outputs": [
+    "q1_concentration_annual.csv",
+    "q1_cr4_leaders.csv",
+    "sector_participation_annual.csv",
+    "q2_inactivity_3y.csv",
+    "q2_applicant_summary.csv",
+    "q3_subfield_growth.csv",
+    "q3_specialization_rta.csv",
+    "q4_player_screening.csv",
+    "08_concentration_annual.png",
+    "10_participation.png",
+    "11_inactivity_3y.png",
+    "12_subfield_growth.png",
+    "13_specialization_rta.png"
+  ],
+  "integrated_context": {
+    "files": [
+      "applicant_first_patents_by_psn.csv",
+      "applicant_history.csv",
+      "patenting_entry_annual.csv",
+      "all_applicants_complete_years.csv",
+      "top_applicants_complete_years.csv",
+      "09_lorenz_curve.png",
+      "concentration_overall.csv",
+      "concentration_windows.csv",
+      "14_concentration_windows.png",
+      "15_patenting_entry.png",
+      "subfield_growth_grouped.csv",
+      "integrated_method_notes.csv",
+      "applicant_history_provenance.json"
+    ],
+    "created_utc": "2026-11-27T13:52:23.735358+00:00",
+    "source_hashes": {
+      "outputs/step0/applicant_info.csv": "d6fedc107b429c08a588370622e711e11800529ce2f199c22b280af5187aab75",
+      "outputs/step0/applicant_psn_ids.csv": "598cf544c58d1547aa458b73b7261365979f99bd8a6564ef8aa887032e595d6e"
+    },
+    "patent_history_definition": "First observed PI family origin since 1800, all fields, mapped PSN IDs only; not founding",
+    "country_definition": "Modal known family-country record in complete years; not verified legal domicile",
+    "context_file_counts": {
+      "psn_ids": 35231,
+      "applicants_with_mapped_history": 30954
+    },
+    "classification_source": "https://www.uspto.gov/web/patents/classification/cpc/html/cpc-B60L.html"
+  },
+  "step0_legal_form_cleaning": true,
+  "past_period": [
+    2013,
+    2017
+  ],
+  "recent_period": [
+    2018,
+    2022
+  ],
+  "last_complete_year": 2022,
+  "thresholds": {
+    "growth_base": 10,
+    "screen_recent_families": 10,
+    "screen_active_years": 2,
+    "min_coded_coverage_pct": 50
+  },
+  "step1_source_sha256": "dd69a0f4a21648e412a698f85bdb968057d9cb8628a6fccbd1775a4102cb607b",
+  "other_files_note": "Unlisted outputs can belong to an older run or an optional appendix; do not mix methods."
+}

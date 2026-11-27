@@ -1,0 +1,18 @@
+{
+  "metadata_sha256": "00e6702536241a6058e6a825fca01c029c79089b792788e906aa6d39231679d7",
+  "environment": "PROD",
+  "python": "3.12.11 | packaged by conda-forge | (main, Jun  4 2025, 14:45:31) [GCC 13.3.0]",
+  "source_sha256": {
+    "config/sector.yaml": "ee63784ebdf7f8794f1f07e5f011af0df67e048bc69884723ad34a7d11382198",
+    "src/harmonise.py": "20ee236152fc2e3f70191c73ca35129391010175fed39fd1d756ca48c40ce4c7",
+    "src/patstat_queries.py": "834ca4c4ef7669fb7521eade1509f9851f6493b8b02e3c52c00e339e835aed87",
+    "src/settings.py": "7373846c10824b5d56ce439d3aad6a0083c52d81c9a0a8b1e9a47bf878d46da3"
+  },
+  "applicants_sha256": "d1e8ee5dfd1d781dbbf3fcb412562820aa8a022d609b8df6137da9aed3cfbf18",
+  "legal_form_cleaning": true,
+  "context_sha256": {
+    "applicant_info.csv": "d6fedc107b429c08a588370622e711e11800529ce2f199c22b280af5187aab75",
+    "applicant_psn_ids.csv": "598cf544c58d1547aa458b73b7261365979f99bd8a6564ef8aa887032e595d6e",
+    "name_normalisation_audit.csv": "54bf812abeaa84066103251d23c7b748ee0ff2f344f935bf8b308186e1741a05"
+  }
+}

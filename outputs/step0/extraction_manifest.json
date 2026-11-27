@@ -1,0 +1,8 @@
+{
+  "source_sha256": {
+    "config/sector.yaml": "ee63784ebdf7f8794f1f07e5f011af0df67e048bc69884723ad34a7d11382198",
+    "src/patstat_queries.py": "834ca4c4ef7669fb7521eade1509f9851f6493b8b02e3c52c00e339e835aed87",
+    "src/settings.py": "7373846c10824b5d56ce439d3aad6a0083c52d81c9a0a8b1e9a47bf878d46da3"
+  },
+  "raw_sha256": "d8cef0aa54cc828b2184c28811a8053f6e641188cef2cf62f975bdebeed9b8ea"
+}

@@ -1,0 +1,31 @@
+applicant,families (fractional),PSN names merged,share of named families (%),type,country,country_known_families,country_family_coverage_pct,country_definition
+TOYOTA MOTOR,1523.4,19,2.8,firm,JP,1880,93.0,Most frequent known family-country record; not verified legal domicile
+STATE GRID (CN),1148.6,710,2.1,firm,CN,45,2.9,Most frequent known family-country record; not verified legal domicile
+VOLKSWAGEN GROUP,1143.8,23,2.1,firm,DE,1349,99.6,Most frequent known family-country record; not verified legal domicile
+HYUNDAI MOTOR,735.0,4,1.4,firm,KR,1260,99.0,Most frequent known family-country record; not verified legal domicile
+HONDA MOTOR,696.7,2,1.3,firm,JP,724,94.9,Most frequent known family-country record; not verified legal domicile
+MERCEDES-BENZ GROUP,681.5,7,1.3,firm,DE,692,98.0,Most frequent known family-country record; not verified legal domicile
+FORD MOTOR,659.3,4,1.2,firm,US,774,99.9,Most frequent known family-country record; not verified legal domicile
+ROBERT BOSCH,503.5,2,0.9,firm,DE,602,100.0,Most frequent known family-country record; not verified legal domicile
+BMW BAYERISCHE MOTOREN WERKE,487.3,1,0.9,firm,DE,558,98.9,Most frequent known family-country record; not verified legal domicile
+BYD,462.5,4,0.9,firm,CN,176,36.5,Most frequent known family-country record; not verified legal domicile
+KIA,452.0,7,0.8,firm,KR,978,99.7,Most frequent known family-country record; not verified legal domicile
+AULTON NEW ENERGY AUTOMOTIVE TECHNOLOGY,421.0,2,0.8,firm,,0,0.0,Most frequent known family-country record; not verified legal domicile
+PANASONIC,378.5,23,0.7,firm,JP,417,91.4,Most frequent known family-country record; not verified legal domicile
+STELLANTIS,318.4,8,0.6,firm,FR,343,99.4,Most frequent known family-country record; not verified legal domicile
+GEELY,278.3,41,0.5,firm,SE,141,37.4,Most frequent known family-country record; not verified legal domicile
+SIEMENS,270.9,2,0.5,firm,DE,360,99.2,Most frequent known family-country record; not verified legal domicile
+GENERAL MOTORS,258.4,3,0.5,firm,US,378,100.0,Most frequent known family-country record; not verified legal domicile
+DENSO,254.1,5,0.5,firm,JP,304,89.7,Most frequent known family-country record; not verified legal domicile
+BAIC GROUP,217.0,8,0.4,firm,,0,0.0,Most frequent known family-country record; not verified legal domicile
+NISSAN MOTOR,210.6,3,0.4,firm,JP,263,92.9,Most frequent known family-country record; not verified legal domicile
+RENAULT,185.5,1,0.3,firm,FR,277,99.6,Most frequent known family-country record; not verified legal domicile
+PHOENIX CONTACT E MOBILITY,146.3,2,0.3,firm,DE,158,100.0,Most frequent known family-country record; not verified legal domicile
+YAZAKI,144.7,2,0.3,firm,JP,160,93.0,Most frequent known family-country record; not verified legal domicile
+KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,141.0,2,0.3,university,KR,190,100.0,Most frequent known family-country record; not verified legal domicile
+LS ELECTRIC,139.4,4,0.3,firm,KR,156,100.0,Most frequent known family-country record; not verified legal domicile
+LG ELECTRONICS,129.8,1,0.2,firm,KR,140,100.0,Most frequent known family-country record; not verified legal domicile
+HYUNDAI MOBIS,118.6,2,0.2,firm,KR,125,100.0,Most frequent known family-country record; not verified legal domicile
+BOZHON PRECISION INDUSTRY TECHNOLOGY,113.5,1,0.2,firm,CN,4,3.5,Most frequent known family-country record; not verified legal domicile
+CONTINENTAL AUTOMOTIVE,113.4,2,0.2,firm,DE,147,87.5,Most frequent known family-country record; not verified legal domicile
+MITSUBISHI ELECTRIC,104.0,1,0.2,firm,JP,126,92.0,Most frequent known family-country record; not verified legal domicile

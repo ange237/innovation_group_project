@@ -1,0 +1,518 @@
+Source URL: https://www.iea.org/data-and-statistics/data-tools/global-ev-policy-explorer
+Retrieved UTC: 2026-11-27T10:36:19.959103+00:00
+This is extracted page text, not the full interactive dataset.
+
+
+
+    Global EV Policy Explorer - IEA
+
+        IEA
+
+                Close Search
+
+        Search
+
+                About
+
+                News
+
+                Events
+
+                Programmes
+
+                Help centre
+
+                                    IEASkip navigation
+
+        Search
+
+                Energy system Chevron down
+
+                            Explore the energy system by fuel, technology or sector
+
+Fossil Fuels
+
+Renewables and Low-Emissions Fuels
+
+Transport
+
+Industry
+
+Buildings
+
+                Explore all
+
+            Topics  Chevron down
+
+                        Understand the biggest energy challenges
+
+The Middle East and Global Energy Markets
+
+Energy Security
+
+Tracking COP Energy Goals
+
+Artificial Intelligence
+
+Investment
+
+Critical Minerals
+
+Access and Affordability
+
+Energy Innovation
+
+Climate Change
+
+Energy and Gender
+
+                                                Access and Affordability
+
+                                                Energy Innovation
+
+                                                Climate Change
+
+                                                Energy and Gender
+
+                                                Russia's War on Ukraine
+
+                                                Energy and Water
+
+                                                Fossil Fuel Subsidies
+
+                                                Net Zero Emissions
+
+                                                Saving Energy
+
+                All topics
+
+            Countries Chevron down
+
+                            Explore the energy system by country or region
+
+Member countries
+
+                                            Australia
+
+                                            Austria
+
+                                            Belgium
+
+                                            Canada
+
+                                            Czechia
+
+                                            Denmark
+
+                                            Estonia
+
+                                            Finland
+
+                                            France
+
+                                            Germany
+
+                                            Greece
+
+                                            Hungary
+
+                                            Ireland
+
+                                            Italy
+
+                                            Japan
+
+                                            Korea
+
+                                            Latvia
+
+                                            Lithuania
+
+                                            Luxembourg
+
+                                            Mexico
+
+                                            New Zealand
+
+                                            Norway
+
+                                            Poland
+
+                                            Portugal
+
+                                            Slovak Republic
+
+                                            Spain
+
+                                            Sweden
+
+                                            Switzerland
+
+                                            The Netherlands
+
+                                            Türkiye
+
+                                            United Kingdom
+
+                                            United States
+
+Accession countries
+
+                                            Brazil
+
+                                            Chile
+
+                                            Colombia
+
+                                            Costa Rica
+
+                                            Israel
+
+                                            Romania
+
+Association countries
+
+                                            Argentina
+
+                                            China
+
+                                            Egypt
+
+                                            India
+
+                                            Indonesia
+
+                                            Kenya
+
+                                            Morocco
+
+                                            Nigeria
+
+                                            Senegal
+
+                                            Singapore
+
+                                            South Africa
+
+                                            Thailand
+
+                                            Ukraine
+
+                                            Viet Nam
+
+                All Countries and Regions
+
+            DataChevron down
+
+                        Use, download and buy global energy data
+
+Data explorers
+
+Understand and manipulate data with easy to use explorers and trackers
+
+                                        Data explorers
+
+Data sets
+
+Free and paid data sets from across the energy system available for download
+
+                                        Data sets
+
+Policies database
+
+Past, existing or planned government policies and measures
+
+                                        Policies database
+
+Chart Library
+
+Access every chart published across all IEA reports and analysis
+
+                                        Chart
+
+                Explore data
+
+            Reports Chevron down
+
+                            Read the latest analysis from the IEA
+
+Oil Market Report - November 2026
+
+                        Fuel report   — 13 November 2026                     
+
+Sheltering From Oil Shocks
+
+Measures to reduce impacts on households and businesses
+
+                        Fuel report   — 20 March 2026                     
+
+World Energy Outlook 2026
+
+                Read more
+
+                        Flagship report   — 19 November 2026                     
+
+Energy Technology Perspectives 2026
+
+                Read more
+
+                        Flagship report   — 26 March 2026                     
+
+                All reports
+
+                Search
+
+            Bag
+
+1
+
+                    User Profile
+
+            Search
+
+Sign In
+            Flyout close
+
+You are connecting via IP recognition from 
+ .
+
+If you wish to proceed, click on Connect.
+
+      If you prefer to log into your personal account, please sign in below.
+
+    ConnectConnect
+
+      OR
+
+            Email                    *
+
+Error
+
+            Password                    *
+
+    Forgot password?
+
+                    Eye
+
+Error
+
+    Sign inSign in
+
+Create an account
+
+Create a free IEA account to download our reports or subcribe to a paid service.
+
+    Join for freeJoin for free
+
+Global EV Policy Explorer
+
+Key policies and measures that support the deployment of electric and zero-emission vehicles
+
+                    Last updated
+
+                20 May 2026
+
+                    Licence
+
+    CC BY 4.0
+
+                                Overview
+
+Explore key policies and measures for EV deployment
+
+This table highlights current as well as announced key policies and measures that support the deployment of electric vehicles (EVs) and zero-emission vehicles (ZEVs) by region and country. These policies and measures take a variety of forms, e.g. fuel economy standards, CO2 emissions standards, deployment roadmaps, and sales or stock targets and ambitions.
+The policies and measures listed in the table are categorised into four types:
+
+Legislation: legally binding commitments such as regulations and standards.
+
+Proposals: policies or actions that have been formally proposed and that may form part of a future policy or target.
+
+Objectives: government goals or objectives as set out in policy documents such as EV deployment roadmaps or national transport strategies.
+
+Announced targets: announced quantitative government targets, for example those incorporated into national climate plans, or electric vehicle strategies that have yet to be incorporated into legislation.
+These policies and measures can be searched across nine different categories:
+
+LDV = light-duty vehicle (cars and vans)
+
+M/HDV = medium/heavy-duty vehicle (freight and vocational vehicles)
+
+EVSE = electric vehicle supply equipment (charging infrastructure)
+
+2/3W = two or three wheelers (motorcycles and rickshaws)
+
+Bus = bus or road public transport policy
+
+Manufacturing = applies to manufacturing of EVs and related components
+
+Taxation = applies specifically to duties and taxes
+
+Multiple = equally applies to multiple categories
+This resource was compiled as part of work on the Global EV Outlook annual series, which is the is the flagship publication of the of the Electric Vehicle Initiative (EVI), a multi-governmental policy forum established in 2010 under the Clean Energy Ministerial. The EVI is dedicated to accelerating the adoption of electric vehicles (EVs) worldwide by understanding the policy challenges, helping governments address them, and serving as a platform for knowledge-sharing. Members of the EVI are shown in bold in the country list.
+With the help of partners from the UN Environment Programme, the 2026 version of the EV policy explorer has been expanded to include a growing number of countries, especially emerging and developing economies, and now covers policies from around three-quarters of countries worldwide.
+
+                                    Download "Download all policies in PDF format"
+
+                                        Download all policies in PDF format
+
+Abbreviations used in the table: EVs = electric vehicles, which include battery electric vehicles (BEVs), hybrid electric vehicles (HEVs), and plug-in hybrid electric vehicles (PHEVs). ZEVs = zero-emissions vehicles, which include BEVs, PHEVs and fuel cell electric vehicles (FCEVs). NEV = new energy vehicle (China); includes BEVs, HEVs, PHEVs and FCEVs. LDV = light-duty vehicle (cars and vans). MDV = medium-duty vehicle. HDV = heavy-duty vehicle. CO2 = carbon dioxide. g CO2/km = grammes of carbon dioxide per kilometre. g CO2/bhp-hr = grammes of carbon dioxide per brake-horsepower hour. kWh = kilowatt-hour. CNG = compressed natural gas. NG = natural gas. LPG = liquefied petroleum gas. ICE = internal combustion engine. ZLEV = zero- or low-emission vehicle.
+
+Year announced may not reflect the first year of the policy due to various updates and differences in how policies are debated and enacted. Though comprehensive, this explorer is not intended to be exhaustive.
+
+ Countries are grouped by region as per GEC Model regional groupings. 
+
+This document, as well as any data and any map included herein, are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+
+Note by  the Republic of Türkiye (Türkiye): The information in this document with reference to Cyprus relates to the southern part of the Island. There is no single authority representing both Turkish and Greek Cypriot people on the Island. Türkiye recognises the Turkish Republic of Northern Cyprus (TRNC). Until a lasting and equitable solution is found within the context of United Nations, Türkiye shall preserve its position concerning the Cyprus issue.
+
+Note by all the European Union Member States of the OECD and the European Union: The Republic of Cyprus is recognised by all members of the United Nations with the exception of Türkiye. The information in this document relates to the area under the effective control of the Government of the Republic of Cyprus.
+
+        Related content
+
+    All
+
+    Data
+
+    Reports
+
+    All resultscircle-arrow
+
+Global EV Outlook 2026
+
+                Read more
+
+                        Flagship report   — 20 May 2026                     
+
+Global EV Data Explorer
+
+Explore historical and projected data on electric vehicles sales, stock, charging infrastructure and oil displacement
+
+Data explorer
+
+                            card data set
+
+Global EV Outlook 2024
+
+Moving towards increased affordability
+
+                Read more
+
+                        Flagship report   — 23 April 2024                     
+
+Global EV Outlook 2026
+
+Global EV Outlook 2026 data
+
+Data set
+
+    Free
+
+                            card data set
+
+    Previous slideNext slide
+
+        Related tags
+
+    Electric Vehicles
+
+    Transport
+
+    Energy Innovation
+
+Newsletters
+
+The best of the IEA sent straight to your inbox
+
+                Subscribe to newsletters
+
+Podcasts
+
+Top energy experts put IEA analysis in context
+
+                Listen to our podcast
+
+Understand energy
+
+Reports
+
+News and commentaries
+
+Events
+
+Energy system
+
+Topics
+
+Countries and regions
+
+Glossary
+
+Explore data
+
+Data explorers
+
+Data sets
+
+Policies database
+
+Chart library
+
+Energy Statistics Browser
+
+IEA essentials
+
+About
+
+Mission
+
+Membership
+
+Structure
+
+Programmes
+
+International collaborations
+
+Training
+
+Connect
+
+Contact
+
+Press
+
+Careers
+
+Internships
+
+Delegates
+
+Help centre
+
+                IEA
+
+    © 2026 IEA
+
+Terms
+
+Privacy
+
+youtube
+
+linkedin
+
+bluesky
+
+facebook
+
+instagram
+
+x (formally twitter)
+
+    Back to top
+
+                Subscription successful
+
+                    Close dialog
+
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.
+

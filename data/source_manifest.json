@@ -1,0 +1,10 @@
+{
+  "original_inputs_sha256": {
+    "data/external/EV data by country 2026.xlsx": "cb6c056fd2c495ee0d52369e547119b5519f3a8df98cab6579a1d4c88bd3561a",
+    "notebooks/anna_step1_original.ipynb": "4890b1c3dd3b19b0ef4ddf4c99affb8818fd15cb310d258562d67d9b072aa78d",
+    "notebooks/text_exploration_original.ipynb": "ffa9beee06ec75cd02859afce0ffd1aea4690aad5e61a49485274e453ca8a838",
+    "notebooks/keyword_research_original.ipynb": "5fd206d27a109cee4bb09c267be94400dd5091f7ed9d6cb2ac8789816672f2e6"
+  },
+  "anna_step1_prefix_sha256": "1e40fff8e3879894a6e69f3c191cade7dd70c58c29db5ba4b6672737a1b8e87a",
+  "note": "Original inputs and the Anna Step 1 source block are preserved. Step 0 is based on the supplied team project; Step 2 integrates both versions."
+}

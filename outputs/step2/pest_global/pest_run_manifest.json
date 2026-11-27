@@ -1,0 +1,127 @@
+{
+  "method": "focused_global_pest_v1",
+  "run_utc": "2026-11-27T13:52:35.443531+00:00",
+  "runtime_network_access": false,
+  "patstat_required": false,
+  "history_years": [
+    2020,
+    2025
+  ],
+  "snapshot_year": 2025,
+  "countries": [
+    "China",
+    "USA",
+    "Japan",
+    "Germany",
+    "India",
+    "Brazil",
+    "Mexico",
+    "Indonesia",
+    "Thailand",
+    "Australia",
+    "South Africa",
+    "United Arab Emirates"
+  ],
+  "aggregates": [
+    "World",
+    "Europe",
+    "Latin America",
+    "Southeast Asia",
+    "Africa",
+    "Middle East and Caspian"
+  ],
+  "market_validation": {
+    "source_rows": 49375,
+    "rows_after_deduplication": 49360,
+    "duplicate_rows_removed": 15,
+    "sheet": "GEVO_EV_2026"
+  },
+  "evidence_rows": {
+    "market_history.csv": 108,
+    "market_snapshot.csv": 18,
+    "consumer_evidence.csv": 43,
+    "context_evidence.csv": 12,
+    "pest_matrix.csv": 8
+  },
+  "used_sources": [
+    "DELOITTE_GACS_PDF",
+    "IPSOS_2026",
+    "IEA_POLICY_PDF",
+    "IEA_CHARGING",
+    "OCA_OCPP",
+    "WB_EMOBILITY",
+    "IEA_LOCAL_2026"
+  ],
+  "unused_archived_sources": [
+    "CHINA_PLAN",
+    "DELOITTE_GACS",
+    "DELOITTE_SIGNALS",
+    "EMBER_PDF",
+    "EMBER_REVIEW",
+    "EU_AFIR",
+    "IEA_OUTLOOK",
+    "IEA_OUTLOOK_PDF",
+    "IEA_POLICY",
+    "IEA_PRICES",
+    "IEA_UPDATE",
+    "IEA_UPDATE_SUMMARY",
+    "INDIA_PM_EDRIVE",
+    "JAPAN_METI",
+    "RB_INDEX",
+    "RB_INDEX_2025_PDF",
+    "US_IRS",
+    "WB_EMOBILITY_PDF",
+    "WB_OUTAGES",
+    "WB_OUTAGES_CSV"
+  ],
+  "outputs": [
+    {
+      "file": "market_history.csv",
+      "sha256": "d50a7f472d74e07a950efdd2d9b9cde6a63acfc37588c406cfea75c96e81d2c8"
+    },
+    {
+      "file": "market_snapshot.csv",
+      "sha256": "d6ef5dccc9be349ade08b39f6104e216b67c1a6d6e7702e5c8463c1cf144a287"
+    },
+    {
+      "file": "consumer_evidence.csv",
+      "sha256": "5740275a06f1ff649d0e0dec3b0fb4c7150bd587e8fbc20c630141a6f688ee3c"
+    },
+    {
+      "file": "context_evidence.csv",
+      "sha256": "c034186e23fd6888e8d22e829332214a46c61f306443ce00902185b9fa4a6260"
+    },
+    {
+      "file": "pest_matrix.csv",
+      "sha256": "b8c26e48a1517d8d95eb5fb7e7e4eb1f89834d7e075952018024a602015e88ce"
+    },
+    {
+      "file": "pest_sources.csv",
+      "sha256": "114d3ddb718bf5f6a20f56c2cbd041c2683e2002c35631cc03a7c83bc03ce4cb"
+    },
+    {
+      "file": "coverage.csv",
+      "sha256": "636eaac95369ee188da5bf2df0f218c1ddd59c6976c06dbe84d00702e705e068"
+    },
+    {
+      "file": "READING_GUIDE.md",
+      "sha256": "1b514a6ea74a60bf4f787f4dbdbfbe2d38c7bc4562087d0d0e76eef0b930eaa3"
+    },
+    {
+      "file": "01_demand.png",
+      "sha256": "877a8c74056f2df7eee5592478817cbe27e38fb31e9a8cb0c88ad83933fc7d36"
+    },
+    {
+      "file": "02_infrastructure.png",
+      "sha256": "f50b6c130fd0ab1be538a7de956d7339af76e6f43667cf7e101dbc5ce1eb35ce"
+    },
+    {
+      "file": "03_consumer_barriers.png",
+      "sha256": "1820d716df7d1a8668c13d17008396ea69aed08a8bd6403fdef49dd7be5e5f51"
+    },
+    {
+      "file": "04_cost_and_acceptance.png",
+      "sha256": "a596c3d1ef10482c84bbcdfe08537798201bc4c6fa6476b7958aae202604049e"
+    }
+  ]
+}
